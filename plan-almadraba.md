@@ -62,7 +62,7 @@ La ordeno por **cuándo se pierde** cada fuente, cruzado con su valor probable y
 | 5 | **F11 Copias del NAS** | **Esta noche** se borra la copia más antigua, que es de la época de la presentación del render | Copias que rotan; cada noche se pierde un día de la ventana (L19) |
 | 6 | **F9 Historial de la impresora** | Con cada trabajo nuevo; capacidad desconocida | Registro que se sobrescribe con el uso diario de la oficina (L19) |
 | 7 | **F8 Sobremesa compartido** | Hoy: lo usa todo el equipo y la sesión abierta se puede cerrar en cualquier momento | Cada uso altera la evidencia (L16) |
-| 8 | **F16 Grabación de la cámara** | Como máximo un mes (art. 22.3 LOPDGDD, comprobar versión vigente); en la práctica, a menudo antes, según la capacidad del grabador | Grabación que caduca; depende de un tercero, así que hay que pedirla ya (L20) |
+| 8 | **F16 Grabación de la cámara** | Como máximo un mes desde la captación (art. 22.3 LOPDGDD); en la práctica, a menudo antes, según la capacidad del grabador | Grabación que caduca; depende de un tercero, así que hay que pedirla ya (L20) |
 | 9 | **F13 Registros de Microsoft 365** | Según la licencia (días o meses) | Registros con retención limitada, además de que Marta puede borrar ficheros de OneDrive desde cualquier dispositivo (L19) |
 | 10 | **F15 Registros de Bahía**, **F10 servidor** y **F14 claves** | Estables a corto plazo, salvo que Bahía haga mantenimiento | Bajo riesgo inmediato, pero hay que congelar cambios (L16) |
 | 11 | **F17 Propuesta de Sevilla** | Estable | Bajo riesgo; basta con pedirla esta semana |
@@ -86,7 +86,7 @@ La ordeno por **cuándo se pierde** cada fuente, cruzado con su valor probable y
 | **F12 Cortafuegos** | Pedir a Bahía que exporte hoy el log completo, con su hash, y que amplíe la retención. | L19, L20 |
 | **F13 Microsoft 365** | Pedir a Bahía que exporte la auditoría, los inicios de sesión y la actividad de OneDrive de `mgarcia`, y que active la retención sobre su buzón y OneDrive. Que no se borre ni se deshabilite nada sin acordarlo. | L10, L11, L20 |
 | **F15 Bahía** | Que todo acceso remoto a los equipos se haga coordinado conmigo y quede documentado. | L16, L22 |
-| **F16 Cámara** | Elena pide **hoy por escrito** a la administración de la comunidad que conserve las grabaciones del 6 al 20 de marzo, sobre todo las tardes del 14 y del 16. | L10, L11, L20 |
+| **F16 Cámara** | Elena pide **hoy por escrito** a la administración de la comunidad que conserve las grabaciones del 6 al 20 de marzo, sobre todo las tardes del 14 y del 16. Si se conservan como prueba, deben entregarse a la autoridad competente en 72 horas (art. 22.3 LOPDGDD). | L10, L11, L20 |
 | **F17 Propuesta de Sevilla** | Elena pide al cliente el documento tal como lo recibió (el fichero o el correo original, no una captura). | L10, L11 |
 | **Personas** | Declaración escrita y firmada de Javier hoy. Anotar lo dicho por Marta y por el técnico de Bahía. | L4 |
 | **Todo** | Notas con hora y desfase de reloj; croquis de la oficina; una etiqueta por pieza; cadena de custodia. | L2, L5, L22, L23 |
@@ -101,7 +101,7 @@ La ordeno por **cuándo se pierde** cada fuente, cruzado con su valor probable y
 |---|---|---|
 | **El móvil personal de Marta (F4)** | No es de la empresa y protege su intimidad; la autorización de Elena no lo cubre | No tocarlo. Solo con su consentimiento libre, informado y por escrito, o con autorización judicial. Mientras tanto, fuentes alternativas: el iPhone de empresa y los inicios de sesión de Microsoft 365, que muestran desde qué dispositivos accedió (L11, L14) |
 | **El bolso y el pendrive que falta (F7)** | No puedo registrar sus pertenencias | Preguntarle si quiere entregarlo voluntariamente. Si no, el análisis del portátil puede revelar el número de serie de los USB conectados (L9, L11) |
-| **Retener a Marta** | No soy autoridad. Puede irse | Que se vaya es decisión de Elena con asesoría laboral. Si se va, **sin** el portátil, el iPhone ni el disco si son de la empresa. El acceso a dispositivos corporativos tiene límites (art. 87 LOPDGDD, comprobar versión vigente y si hay política de uso comunicada) (L1, L14) |
+| **Retener a Marta** | No soy autoridad. Puede irse | Que se vaya es decisión de Elena con asesoría laboral. Si se va, **sin** el portátil, el iPhone ni el disco si son de la empresa. El acceso a dispositivos corporativos tiene límites (art. 87 LOPDGDD: solo para controlar obligaciones laborales y según los criterios de uso que se hayan comunicado; comprobar si existen) (L1, L14) |
 | **La contraseña del portátil** | Marta no está obligada a dármela | Acceso con una cuenta de administración a través de Bahía, como tercero de confianza (ENFSI §9.2), documentando la alteración. Si no es viable, mantenerlo encendido y aislado hasta decidirlo (L13) |
 | **El correo de la compañera en el sobremesa (F8)** | Datos de otra persona sin relación con los hechos | Fotografiar la pantalla y preservar el equipo. Su buzón solo si aparecen indicios que lo justifiquen (L14) |
 | **La grabación de la cámara (F16)** | No es de Almadraba: la gestiona la comunidad | Petición de conservación por escrito; si no colaboran, a través de denuncia y juzgado (L11, L20) |
