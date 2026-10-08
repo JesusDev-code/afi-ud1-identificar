@@ -1,6 +1,6 @@
 # UD1 · Identificar antes de tocar
 
-**Autor:** Jesús
+**Autor:** Jesús Alfonso Pedreño Domínguez
 **Módulo:** Análisis forense informático — Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información
 
 ## Contenido
