@@ -1,4 +1,4 @@
-# Comparativa: qué significa «identificar» en tres normas
+# Qué es «identificar» en tres normas
 
 | | **RFC 3227** (2002) | **NIST SP 800-86** (2006) | **ENFSI BPM-FIT-01** (2015) |
 |---|---|---|---|
@@ -6,6 +6,6 @@
 | **Fuentes que menciona** | Memoria, procesos, ARP, ficheros temporales, disco, logs remotos, topología, soportes de archivo (§2.1). Las personas presentes (§3.2). | Sobremesas, servidores, NAS, portátiles, extraíbles, móviles, cámaras. Fuera: logs de red, ISP, copias de seguridad, IDS, teletrabajo, equipos personales (§3.1.1). | Equipos en vivo, cifrado activo, dispositivos RF e infrarrojos, configuración de red (§8.2, §9.1). Capturas de pantalla y datos lógicos (§9.2). |
 | **Qué se protege primero** | Orden de volatilidad, de registros y memoria a soportes de archivo (§2.1). No apagar hasta terminar (§2.2). | Valor probable, volatilidad y esfuerzo; los logs que se sobrescriben también son volátiles (§3.1.2). Impacto en el negocio (§3.1.3). | Las zonas más probables según lo denunciado (§8.2). No apagar si se pierden los datos (§9.2). |
 
-**En qué coinciden.** Las tres asumen que la evidencia digital se pierde con facilidad, que lo primero es no empeorar la situación (no apagar sin pensar, aislar, documentar) y que se trabaja dentro del marco legal.
+**En qué coinciden.** Las tres asumen que la evidencia digital se pierde con facilidad, que lo primero es no empeorar la situación (no apagar sin pensar, aislar, documentar) y que se actúa dentro del marco legal.
 
-**En qué se diferencian.** La RFC mira **un equipo** y aporta el orden de volatilidad. NIST **sale del edificio** (ISP, copias, teletrabajo) y añade criterios no técnicos: propietario, esfuerzo y negocio. ENFSI piensa en **la escena y su preparación**: búsqueda guiada por los hechos, riesgo de RF y cifrado. Con una sola norma se escaparía algo: con la RFC, los registros de terceros; con NIST, el móvil que se borra a distancia; con ENFSI, un orden de volatilidad explícito.
+**En qué se diferencian.** La RFC mira **un equipo** y aporta el orden de volatilidad; NIST **sale del edificio** (ISP, copias, teletrabajo) y añade propietario, esfuerzo y negocio; ENFSI piensa en **la escena**: búsqueda guiada por los hechos, RF y cifrado. Con una sola norma se escaparía algo: con la RFC, los registros de terceros; con NIST, el móvil que se borra a distancia; con ENFSI, un orden de volatilidad explícito.
